@@ -1,2 +1,2 @@
-# Ember Agents
-The Ember AI agent swarm for intent based cognition and reasoning.
+# py-project-template
+Template to use for new Python projects using my selected stack.
